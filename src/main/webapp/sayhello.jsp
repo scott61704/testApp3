@@ -4,7 +4,7 @@
 
 <td width="550">
 
-<h1>Howdie, <%= request.getParameter("username") %>
+<h1>Howdiy, <%= request.getParameter("username") %>
 </h1>
 
 </td>
